@@ -8,13 +8,13 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(0deg, #bbff00 0%, #ffffff 90%);
+  background: linear-gradient(0deg, #000000 0%, #461181 90%);
   min-height: 100vh;
 }
 
 .container {
   text-align: center;
-  background-color: #fffdf7;
+  background-color: #f8f5ff;
   height: 260px;
   width: 400px;
   border-radius: 10px;
@@ -50,10 +50,10 @@ body {
   margin-top: 15px;
 }
 #url-form button {
-  background-color: #bbff00;
+  background-color: #461181;
   font-weight: bold;
   font-size: larger;
-  color: #2d2d2d;
+  color: #ffffff;
   margin-top: 20px;
   cursor: pointer;
   opacity: 0.75;
